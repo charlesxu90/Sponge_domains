@@ -1,0 +1,407 @@
+.
+├── XT_clu10
+│   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   ├── cluster10size5.txt.msa
+│   ├── cluster10size5.txt.msa.hmm
+│   ├── hmmsearch.sh
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   └── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+└── XT_clu7
+    ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+    ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+    ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+    ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+    ├── cluster7size5.txt.msa
+    ├── cluster7size5.txt.msa.hmm
+    ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+    ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+    ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+    ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+    ├── hmmsearch.sh
+    ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+    ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+    ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+    └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+
+.
+├── s5-8
+│   ├── SC_clu31
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster31size8.txt.msa.hmm
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   │   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu32
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   │   ├── cluster32size8.txt.msa.hmm
+│   │   ├── hmmsearch.sh
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   └── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   ├── SC_clu34
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster34size7.txt.msa.hmm
+│   │   ├── hmmsearch.sh
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu36
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   │   ├── cluster36size7.txt.msa.hmm
+│   │   ├── hmmsearch.sh
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   │   └── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   ├── SC_clu37
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster37size7.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   ├── SC_clu39
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster39size7.txt.msa.hmm
+│   │   ├── hmmsearch.sh
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   └── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   ├── SC_clu40
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster40size7.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   ├── SC_clu42
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster42size7.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   ├── SC_clu45
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster45size7.txt.msa.hmm
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu46
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster46size7.txt.msa.hmm
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   │   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu47
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster47size7.txt.msa.hmm
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   │   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu49
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   │   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster49size7.txt.msa.hmm
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   │   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   │   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   │   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   │   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu57
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster57size6.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   ├── SC_clu59
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster59size6.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   ├── SC_clu61
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster61size5.txt.msa.hmm
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   │   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   │   ├── hmmsearch.sh
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   │   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   │   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   │   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+│   ├── SC_clu62
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   │   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   │   ├── cluster62size5.txt.msa.hmm
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   │   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   │   └── hmmsearch.sh
+│   ├── SC_clu67
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   │   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   │   ├── cluster67size5.txt.msa.hmm
+│   │   └── hmmsearch.sh
+│   └── SC_clu68
+│       ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│       ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│       ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│       ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│       ├── cluster68size5.txt.msa.hmm
+│       └── hmmsearch.sh
+├── SC_clu16
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster16size11.txt.msa.hmm
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   └── hmmsearch.sh
+├── SC_clu17
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster17size10.txt.msa.hmm
+│   ├── hmmsearch.sh
+│   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   └── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+├── SC_clu18
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster18size10.txt.msa.hmm
+│   └── hmmsearch.sh
+├── SC_clu19
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   ├── cluster19size10.txt.msa.hmm
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   ├── hmmsearch.sh
+│   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+├── SC_clu2
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   ├── cluster2size30.txt.msa.hmm
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   ├── hmmsearch.sh
+│   ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+│   ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   └── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+├── SC_clu20
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster20size10.txt.msa.hmm
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+│   ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+│   └── hmmsearch.sh
+├── SC_clu21
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster21size10.txt.msa.hmm
+│   ├── hmmsearch.sh
+│   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+├── SC_clu25
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   ├── cluster25size9.txt.msa.hmm
+│   └── hmmsearch.sh
+├── SC_clu26
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster26size8.txt.msa.hmm
+│   └── hmmsearch.sh
+├── SC_clu27
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+│   ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+│   ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+│   ├── cluster27size8.txt.msa.hmm
+│   └── hmmsearch.sh
+├── SC_clu28
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+│   ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+│   ├── cluster28size8.txt.msa.hmm
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+│   ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+│   ├── hmmsearch.sh
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+│   ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+│   ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+│   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+│   ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+│   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+├── SC_clu3
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── cluster3size26.txt.msa.hmm
+│   ├── hmmsearch.sh
+│   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+│   ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+│   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+├── SC_clu4
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+│   ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+│   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+│   ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+│   ├── cluster4size23.txt.msa.hmm
+│   ├── hmmsearch.sh
+│   ├── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_dseq.fa
+│   └── Xiphophorus_maculatus.Xipmac4.4.2.75.pep.all.fa_id.txt
+└── SC_clu8
+    ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_dseq.fa
+    ├── Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt
+    ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_dseq.fa
+    ├── Anolis_carolinensis.AnoCar2.0.75.pep.all.fa_id.txt
+    ├── Bos_taurus.UMD3.1.75.pep.all.fa_dseq.fa
+    ├── Bos_taurus.UMD3.1.75.pep.all.fa_id.txt
+    ├── Ciona_intestinalis.KH.75.pep.all.fa_dseq.fa
+    ├── Ciona_intestinalis.KH.75.pep.all.fa_id.txt
+    ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_dseq.fa
+    ├── Ciona_savignyi.CSAV2.0.75.pep.all.fa_id.txt
+    ├── cluster8size17.txt.msa.hmm
+    ├── Danio_rerio.Zv9.75.pep.all.fa_dseq.fa
+    ├── Danio_rerio.Zv9.75.pep.all.fa_id.txt
+    ├── Gallus_gallus.Galgal4.75.pep.all.fa_dseq.fa
+    ├── Gallus_gallus.Galgal4.75.pep.all.fa_id.txt
+    ├── hmmsearch.sh
+    ├── Homo_sapiens.GRCh37.75.pep.all.fa_dseq.fa
+    ├── Homo_sapiens.GRCh37.75.pep.all.fa_id.txt
+    ├── Mus_musculus.GRCm38.75.pep.all.fa_dseq.fa
+    ├── Mus_musculus.GRCm38.75.pep.all.fa_id.txt
+    ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_dseq.fa
+    ├── Oreochromis_niloticus.Orenil1.0.75.pep.all.fa_id.txt
+    ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_dseq.fa
+    ├── Pelodiscus_sinensis.PelSin_1.0.75.pep.all.fa_id.txt
+    ├── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_dseq.fa
+    └── Xenopus_tropicalis.JGI_4.2.75.pep.all.fa_id.txt
+

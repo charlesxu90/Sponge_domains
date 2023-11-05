@@ -1,0 +1,13 @@
+###############################################
+#type your own input filename and parameter below
+#Please do Not do any change for the first colwn
+#
+###############################################
+InputFileName ./SC_proteins_ltAED075_E.fa
+#example: AQ_sponge.fa or any fasta format file
+Threshold 0.7
+#It can be 0.3,0.4....0.9
+HashSeedLength	10
+#type a number as 6,7,8,9,10,11 
+HashSeedType c2	
+# "c1" or "c2"

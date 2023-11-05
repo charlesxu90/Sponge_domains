@@ -1,0 +1,14 @@
+mv *r16s* SC_clu16
+mv *r18s* SC_clu18
+mv *r2s* SC_clu2
+mv *r21s* SC_clu21
+mv *r26s* SC_clu26
+mv *r28s* SC_clu28
+mv *r4s* SC_clu4
+mv *r17s* SC_clu17
+mv *r19s* SC_clu19
+mv *r20s* SC_clu20
+mv *r25s* SC_clu25
+mv *r27s* SC_clu27
+mv *r3s* SC_clu3
+mv *r8s* SC_clu8

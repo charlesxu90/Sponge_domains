@@ -1,0 +1,1 @@
+for i in ~/Projects/Sponge/1_motif_find/Species/XT_proteins_ltAED075_E/seed6/cluster*.txt; do clustalw -INFILE=$i -TYPE=protein -OUTFILE=$i.msa; mv $i.msa ~/Projects/Sponge/2_motif_phylogeny/0_data/XT; done

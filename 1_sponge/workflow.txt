@@ -1,0 +1,60 @@
+Work flow of Domain analysis:
+
+==========================================
+1. Find new associated non-domain sequences from proteome
+1) Remove domain sequences;
+    -del_domain_seq.pl,
+2) Run SECOM against non-Domain Sequences;
+    -Run SECOM for different seed length, finally choose 6 (More comprehensive).
+    -change config file, 0_split_file.pl, 
+3) Run Clustalw for all clusters find from SECOM;
+    -1_run_clustalw_folder.pl, 
+
+==========================================
+2. Cross-validate new motifs using blast # Useless, needs update
+1) Find consensus sequences from Clustalw results;
+    -2_select_rep_seq.pl, 2_run_sel_rep.pl
+2) Run blastp for consensus seqs against ncbi_nr and other two sponge sequences dbs;
+    -3_blastp_nr_local.pl
+    -do I need Do it for AQ?
+3) Search consensus seqs against pfam (including Pfam-A and Pfam-B) and other motif dbs;
+    -Meant to find existing hits.
+Combine all the infomation above by:
+    -4_combine_pfam_blast_seq.pl, 4_sel_blast_info.pl, 4_sel_blast_XT_SC.pl, and combineColumn.pl
+
+==========================================
+3. Genome level scrutiny of new motifs using hmmer # Useless, MSA is not solid.
+1) Retrieve proteomes of related species;
+    -details in ~/db/species/;
+2) Search all cluster profiles against all species;
+    -1.pick_dom_seq.pl 
+3) Retrieve matched sequences, do multiple sequences alignment;
+#4) Create phylogenetic tree from alignments; ### Meet with problems, few species share this domain
+
+===========================================
+#4. Discovery potential domains from MSA ### Impossible for this study. MSA is not solid. P-value curve is not plausible.
+1) Convert MSA into IDentity Curves (ID curves) ## Build models
+    -Two methods: Counting and PWM
+2) Convert ID Curves into P-values Curves
+3) Smoothing of P-value Curves
+    -Two methods: filter and wavelet
+4) Partition of P-value Curves and find corresponding domains
+    -B-H algorithm or threshold
+
+===========================================
+5. Potential domain analysis based on structural information
+1) Using a better algorithm for MSA. (Probcons)
+2) Retrieve Conserve PSSM/consensus seq for structural prediction.
+3) Matching based on structural information.
+
+===========================================
+#6. Functional analysis of the new domains
+1) Subcellular location of proteins;
+    -predictProtein, 
+    -others: psipred, raptorX, metaprdos, I-tasser
+2) Homologous sequences functional annotations;
+    -??? Remains to be see.
+
+===========================================
+===========================================
+Other info:

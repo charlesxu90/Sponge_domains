@@ -1,0 +1,108 @@
+---Program	./monitor.pl	starts --> Sun Oct 26 23:35:16 2014
+/home/xux/bin/probcons -claustalw cluster10size15.txt > cluster10size15.txt.aln
+/home/xux/bin/probcons -claustalw cluster11size14.txt > cluster11size14.txt.aln
+/home/xux/bin/probcons -claustalw cluster12size13.txt > cluster12size13.txt.aln
+/home/xux/bin/probcons -claustalw cluster13size11.txt > cluster13size11.txt.aln
+/home/xux/bin/probcons -claustalw cluster14size11.txt > cluster14size11.txt.aln
+/home/xux/bin/probcons -claustalw cluster15size11.txt > cluster15size11.txt.aln
+/home/xux/bin/probcons -claustalw cluster16size11.txt > cluster16size11.txt.aln
+/home/xux/bin/probcons -claustalw cluster17size10.txt > cluster17size10.txt.aln
+/home/xux/bin/probcons -claustalw cluster18size10.txt > cluster18size10.txt.aln
+/home/xux/bin/probcons -claustalw cluster19size10.txt > cluster19size10.txt.aln
+/home/xux/bin/probcons -claustalw cluster1size44.txt > cluster1size44.txt.aln
+/home/xux/bin/probcons -claustalw cluster20size10.txt > cluster20size10.txt.aln
+/home/xux/bin/probcons -claustalw cluster21size10.txt > cluster21size10.txt.aln
+/home/xux/bin/probcons -claustalw cluster2size30.txt > cluster2size30.txt.aln
+/home/xux/bin/probcons -claustalw cluster3size26.txt > cluster3size26.txt.aln
+/home/xux/bin/probcons -claustalw cluster4size23.txt > cluster4size23.txt.aln
+/home/xux/bin/probcons -claustalw cluster5size20.txt > cluster5size20.txt.aln
+/home/xux/bin/probcons -claustalw cluster6size19.txt > cluster6size19.txt.aln
+/home/xux/bin/probcons -claustalw cluster7size18.txt > cluster7size18.txt.aln
+/home/xux/bin/probcons -claustalw cluster8size17.txt > cluster8size17.txt.aln
+/home/xux/bin/probcons -claustalw cluster9size16.txt > cluster9size16.txt.aln
+#calling </home/xux/bin/probcons -claustalw cluster10size15.txt > cluster10size15.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster11size14.txt > cluster11size14.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster12size13.txt > cluster12size13.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster13size11.txt > cluster13size11.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster14size11.txt > cluster14size11.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster15size11.txt > cluster15size11.txt.aln
+> ...
+timeout: failed to run command `/home/xux/bin/probcons'timeout: : Permission deniedfailed to run command `/home/xux/bin/probcons'
+: Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+#process 65513 finished!
+#process 65514 finished!
+#calling </home/xux/bin/probcons -claustalw cluster16size11.txt > cluster16size11.txt.aln
+> ...
+#process 65515 finished!
+#calling </home/xux/bin/probcons -claustalw cluster17size10.txt > cluster17size10.txt.aln
+> ...
+#process 65517 finished!
+#calling </home/xux/bin/probcons -claustalw cluster18size10.txt > cluster18size10.txt.aln
+> ...
+#process 65520 finished!
+#calling </home/xux/bin/probcons -claustalw cluster19size10.txt > cluster19size10.txt.aln
+> ...
+#process 65522 finished!
+#calling </home/xux/bin/probcons -claustalw cluster1size44.txt > cluster1size44.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster20size10.txt > cluster20size10.txt.aln
+> ...
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: timeout: failed to run command `/home/xux/bin/probcons'failed to run command `/home/xux/bin/probcons': Permission denied
+: Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons'timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+: Permission denied
+#process 301 finished!
+#calling </home/xux/bin/probcons -claustalw cluster21size10.txt > cluster21size10.txt.aln
+> ...
+#process 302 finished!
+#process 304 finished!
+#calling </home/xux/bin/probcons -claustalw cluster2size30.txt > cluster2size30.txt.aln
+> ...
+#process 306 finished!
+#calling </home/xux/bin/probcons -claustalw cluster3size26.txt > cluster3size26.txt.aln
+> ...
+#process 308 finished!
+#calling </home/xux/bin/probcons -claustalw cluster4size23.txt > cluster4size23.txt.aln
+> ...
+#process 310 finished!
+#calling </home/xux/bin/probcons -claustalw cluster5size20.txt > cluster5size20.txt.aln
+> ...
+#calling </home/xux/bin/probcons -claustalw cluster6size19.txt > cluster6size19.txt.aln
+> ...
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+#process 333 finished!
+#calling </home/xux/bin/probcons -claustalw cluster7size18.txt > cluster7size18.txt.aln
+> ...
+#process 337 finished!
+#process 339 finished!
+#calling </home/xux/bin/probcons -claustalw cluster8size17.txt > cluster8size17.txt.aln
+> ...
+#process 341 finished!
+#process 343 finished!
+#calling </home/xux/bin/probcons -claustalw cluster9size16.txt > cluster9size16.txt.aln
+> ...
+#process 345 finished!
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+timeout: failed to run command `/home/xux/bin/probcons': Permission denied
+#process 363 finished!
+#process 365 finished!
+#process 366 finished!
+#done!!!
+---Program	./monitor.pl	ends  --> Sun Oct 26 23:35:16 2014
