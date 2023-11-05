@@ -1,0 +1,10 @@
+sh XT/cluster10size5/run_itasser.sh 
+sh XT/cluster1size14/run_itasser.sh 
+sh XT/cluster2size10/run_itasser.sh 
+sh XT/cluster3size7/run_itasser.sh 
+sh XT/cluster4size7/run_itasser.sh 
+sh XT/cluster5size6/run_itasser.sh 
+sh XT/cluster6size6/run_itasser.sh 
+sh XT/cluster7size5/run_itasser.sh 
+sh XT/cluster8size5/run_itasser.sh 
+sh XT/cluster9size5/run_itasser.sh 
