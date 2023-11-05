@@ -1,0 +1,77 @@
+Data folder contains the results of genome-wide new domain discovery analysis.
+
+PfamSearchResult.txt is the Pfam searching results using the consensus sequence of each domain.
+
+
+Each subfolder contains the analysis result for each domain. Below is the explanation of each file.
+
+Example:
+
+SC_CLUSTER2SIZE30               # New domain name
+|-- annotation.csv
+|-- annotation.xls              # Functions of prediction templates and matched structures.
+|-- cluster2size30.txt.blast_out # Blastp using consensus sequence against ncbi nr database
+|-- Hmmer                       # Contains similar sequences found in other species, these species are selected based on phylogenetic tree. .hmm is the hidden Markov Model generated based on multiple sequence alignment.fa files contain the sequences, .txt files contains the id and e-values. 
+|   |-- Amphimedon_queenslandica.Aqu1.22.pep.all.fa_hmm.fa # matched sequences
+|   |-- Amphimedon_queenslandica.Aqu1.22.pep.all.fa_id.txt # sequence id
+|   |-- cluster2size30.hmm  # Hidden Markov model generated based on multiple sequence alignment
+|   `-- cluster2size30.hmm.out
+|-- RaptorX                     # RaptorX results
+|   |-- 0README
+|   |-- 87797.domain            # Contain the domain parsing information
+|   |-- 87797.fasta             # Contain consensus seq of the domain
+|   |-- 87797.pdb               # Predicted structure for the domain
+|   |-- 87797.pdb-spalign.out       # SP-align result
+|   |-- 87797.pdb-spalign.out.tab   # Sorted SP-align result, threshold >= 0.5
+|   |-- 87797.pdb-tmalign.out       # TM-align result
+|   |-- 87797.pdb-tmalign.out.tab   # Sorted TM-align result, threshold tmscore >= 0.5
+|   |-- 87797.png
+|   |-- dom1                    # Prediction data of the first domain
+|   |   |-- alignments          # Contain alignments with template
+|   |   |   |-- 2a65A-87797_1.fasta
+|   |   |   |-- 2yevA-87797_1.fasta
+|   |   |   |-- 3rkoB-87797_1.fasta
+|   |   |   |-- 3rkoC-87797_1.fasta
+|   |   |   `-- 4he8F-87797_1.fasta
+|   |   |-- ModelRank.rtf       # Rank of templates, the smaller P-value, the better
+|   |   `-- pdbs                # Modeller prediction result using each templates
+|   |       |-- 2a65A-87797_1.pdb
+|   |       |-- 2yevA-87797_1.pdb
+|   |       |-- 3rkoB-87797_1.pdb
+|   |       |-- 3rkoC-87797_1.pdb
+|   |       `-- 4he8F-87797_1.pdb
+|   |-- dom2                    # similarly
+|   |   |-- alignments
+|   |   |   |-- 1dabA-87797_2.fasta
+|   |   |   |-- 3ak5A-87797_2.fasta
+|   |   |   |-- 3syjA-87797_2.fasta
+|   |   |   |-- 3szeA-87797_2.fasta
+|   |   |   |-- 4kh3A-87797_2.fasta
+|   |   |   `-- 87797_2_msa.fasta
+|   |   |-- ModelRank.rtf
+|   |   `-- pdbs
+|   |       |-- 1dabA-87797_2.pdb
+|   |       |-- 3ak5A-87797_2.pdb
+|   |       |-- 3syjA-87797_2.pdb
+|   |       |-- 3szeA-87797_2.pdb
+|   |       |-- 4kh3A-87797_2.pdb
+|   |       `-- 87797_2_msa.pdb
+|   `-- labeling            # Contain solvent accessibility, disordered region, and secondary structure prediction result
+|       |-- 87797.acc       # Solvent accessibility prediction result
+|       |-- 87797.diso      # Disorderred region prediction result
+|       |-- 87797.ss3       # 3 class secondary structure prediction result
+|       `-- 87797.ss8       # 8 class secondary structure prediction result
+|-- Seq
+|   |-- cluster2size30.txt          # Original sequence containing this domain
+|   |-- cluster2size30.txt.aln      # Alignment of original sequences
+|   `-- cluster2size30.txt.aln.seq  # Consensus sequence of alignment, same as .fasta file in RaptorX folder 
+`-- StructAlign
+    |-- 87797.pdb-spalign.out.tab   # SP-align matching with SP-score >= 0.5
+    |-- 87797.pdb-tmalign.out.tab   # TM-align matching with TM-score >= 0.5
+    |-- cp_spalign_pdb.sh
+    |-- cp_tmalign_pdb.sh
+    |-- spalign         # This folder contains pdb files of spalign matched structures 
+    |   `-- 3b4na.pdb
+    `-- tmalign         # This folder contains pdb files of tmalign matched structures
+
+13 directories, 52 files
